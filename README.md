@@ -1,4 +1,4 @@
-# PHP Thumb
+# php-thumb
 
 PHP Thumb is a light-weight image manipulation library 
 aimed at thumbnail generation. It features the ability to 
