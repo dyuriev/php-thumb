@@ -1,5 +1,5 @@
 {
-	"name": "dyuriev/PhpThumb",
+	"name": "dyuriev/php-thumb",
 	"description": "A light-weight image manipulation library aimed at thumbnail generation by Ian Selby <ian@gen-x-design.com>",
 	"version": "3.0",
 	"keywords": ["phpthumb", "thumbnail", "image manipulation"],
